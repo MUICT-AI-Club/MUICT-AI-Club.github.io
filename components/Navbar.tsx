@@ -9,7 +9,7 @@ export default function Navbar() {
         <div className="navbar-left">
           <Link href="/" className="navbar-logo-link">
             <div className="navbar-logo">
-              <Image src="/muict-ai-club/logo.png" alt="Logo" width={40} height={40} />
+              <Image src="/logo.png" alt="Logo" width={40} height={40} />
               <span className="navbar-logo-text">MUICT AI Club</span>
             </div>
           </Link>

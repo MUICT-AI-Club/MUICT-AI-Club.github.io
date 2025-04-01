@@ -4,9 +4,9 @@ import { useState, useEffect } from 'react';
 import '@/styles/components.css';
 
 const images = [
-  '/muict-ai-club/img/2025-03-12-Talk.jpg',
-  '/muict-ai-club/img/2024-10-20-Hackathon.jpg',
-  '/muict-ai-club/img/2024-09-11-Workshop.jpg',
+  '/img/2025-03-12-Talk.jpg',
+  '/img/2024-10-20-Hackathon.jpg',
+  '/img/2024-09-11-Workshop.jpg',
 ];
 
 export default function ImageSlider() {
